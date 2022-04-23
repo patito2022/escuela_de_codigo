@@ -2,16 +2,40 @@
 Reto. Describe el proceso en que se computa las siguientes fórmulas.
 
 X = (18/9 * 2 + 16) – ( 5 * 4 – 3^3)
-
-X = (5 + 2 * 4) – (25 +. 5)2
-
+(18/9)
+(2*2+16)
+(2*2)
+(4+16)
+(20)
+-(5*4 3^3)
+(3^3)
+(5*4)
+(20)-(20-27)
+(20)-(-7)
+27
 X = (100/5^2 + 1) + 11 * 3
 
 X = ((8-6)^2*3)^3.
+X=(5+2*4)-(25+.5)2
+(2*4)
 
-x = ((8+5) *4) * (10-6)/4) 
+
+(25+0.5)-25.5(2)=51
 
 
+
+
+
+
+
+
+
+
+(11*3)=33
+5+33=38
+
+
+X=
 ## OPERADORES RELACIONALES
 Reto. Una empresa de logística ofrece a sus trabajadores un bono de
 puntualidad. Si el empleado siempre llega puntual durante el mes se le
